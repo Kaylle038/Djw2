@@ -3,13 +3,14 @@
     padding:0;
 }
 
+
 .main{
-    background-color:#708090;
-    color:#DCDCDC;
+    background-color: #2F4F4F;
+    color: #ADD8E6;
     height: auto;
-    width: 280px;
-    padding: 25px;
-    border-radius: 25px;
+    width: 265px;
+    padding: 20px;
+    border-radius: 30px;
     text-align: center;
     /* principal: ajuste calculadora: fundos, bordas, ajustes, espaçamento entre botões, alinhamento*/
     margin: auto;
